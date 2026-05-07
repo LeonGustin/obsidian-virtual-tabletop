@@ -1,0 +1,61 @@
+Qinmar:
+Ink-Trace Sight:
+
+Story: Your empty sockets weep black ink that never dries. You "see" the history of lies.
+
+Mechanical: You can see a faint, smoky trail left by any creature that has spoken a lie in the last hour. You gain Advantage on Insight checks and can track "liars" as if using the Survival skill.
+
+
+Karnn
+Obsidian Integration:
+
+Story: Your iron arms are now veined with glowing obsidian shards. You see "structural flaws."
+
+Mechanical: You can sense the "weak point" in any object or construct. Your attacks deal Double Damage to objects and structures. Additionally, you can see through 1 foot of stone or metal as if it were glass.
+
+
+Azura:
+Fractured Prophecy:
+
+Story: Your hand turns translucent violet. You see the "unwritten" fate of others.
+
+Mechanical: As a bonus action, you can look at a creature and see its "Ending." You learn its Current HP and any Damage Vulnerabilities. You can use this a number of times equal to your Prof. Bonus per Long Rest.
+
+
+Scrap:
+Xoriatian Logic:
+Story: Your core predicts the "impossible." You see attacks before they are even conceived.
+
+Mechanical: You cannot be surprised. In combat, you can see a "ghostly echo" of where an enemy will move next. You gain a +2 bonus to Initiative and a +1 bonus to AC against Aberrations.
+
+
+Liriel:
+Echoing Identity
+Story: Your shadow moves a half-second faster than you. You see through the eyes of your own shade.
+
+Mechanical: You can see in magical darkness out to 60ft. Your shadow can "peak" around corners for you; you gain Advantage on Perception checks made to detect ambushes or hidden doors.
+
+
+Vaelrion:
+Void-Speaker’s Eye:
+
+Story: Your eyes become flat, ink-black voids. You see the "true name" of all magic.
+
+Mechanical: You are under a permanent Detect Magic effect, but only for magic categorized as "unnatural" (Necromancy, Enchantment, or Illusion). You can see the "ink-bleed" of a polymorphed or disguised creature.
+
+
+Berrik:
+Dead-Eye Dreamer:
+
+Story: You interact with targets through the "lethargy" of the void.
+
+Mechanical: Your attacks "numb" the target. When you hit a creature, their Speed is reduced by 10ft until the start of your next turn. Once per Long Rest, you can force a target hit by your Sneak Attack to make a DC 15 Wis Save or fall Asleep for 1 minute.
+
+
+Genesis:
+Lullaby of Xoriat:
+
+Story: Your holy symbol—once a beacon of Eberron’s light—is now veined with unmoving, crystalline black ink. When you channel your divinity, it no longer feels like a shout to the heavens, but a soothing, heavy whisper that numbs the pain of reality.
+
+Interaction Edit: Your magic interacts with pain by "erasing" it from the mind. Whenever you cast a spell of 1st level or higher that restores hit points, the recipient gains Resistance to all damage until the start of your next turn. They are wrapped in the psychic numbing of your lullaby.
+
